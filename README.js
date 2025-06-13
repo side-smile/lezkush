@@ -1,2 +1,2 @@
 > ####hello###
-const timnasa {timoth}
+const timnasa{timoth}
