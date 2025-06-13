@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*_Pair Code Connected by LEZKUSH TMD*
+*_Pair Code Connected by RAHEEM XMD*
 ______________________________________
 ╔════◇
 ║ *『 THANKS 👍 FOR  SHOWING LOVE』*
@@ -70,9 +70,9 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/255756469954_
-║❒ *Repo:* _https://github.com/Next5x/TIMNASA_TMD1
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31 _
+║❒ *Owner:* _https://wa.me/255763111390_
+║❒ *Repo:* _https://github.com/Raheem-cm/RAHEEM_XMD-
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r _
 ║❒ 
 ╚════════════════════════╝
 _____________________________________
