@@ -70,9 +70,9 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/255763111390_
-║❒ *Repo:* _https://github.com/Raheem-cm/RAHEEM_XMD-
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r _
+║❒ *Owner:* _https://wa.me/255628848298_
+║❒ *Repo:* _https://github.com/side-smile/Ibupixel-
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z _
 ║❒ 
 ╚════════════════════════╝
 _____________________________________
